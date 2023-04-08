@@ -1,5 +1,6 @@
+
 *.html
-!index.html
+!default.html
 .vscode/
 audio/
 custom-font/
@@ -11,3 +12,4 @@ img/
 video/
 *.css
 !default.css
+
